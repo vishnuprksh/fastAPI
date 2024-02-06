@@ -1,0 +1,2 @@
+# fastAPI
+Projects in fastAPI
